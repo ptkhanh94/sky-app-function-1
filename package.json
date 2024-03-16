@@ -1,6 +1,6 @@
 {
   "name": "sky-app-function-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " sử dụng Material-UI để tạo giao diện người dùng và React để quản lý trạng thái và logic của ứng dụng",
   "main": "index.js",
   "scripts": {
