@@ -1,7 +1,7 @@
 {
   "name": "sky-app-function-1",
-  "version": "1.0.1",
-  "description": " sử dụng Material-UI để tạo giao diện người dùng và React để quản lý trạng thái và logic của ứng dụng",
+  "version": "1.0.0",
+  "description": "sky-app-function-1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,11 +17,15 @@
   },
   "homepage": "https://github.com/ptkhanh94/sky-app-function-1#readme",
   "dependencies": {
-    "hai-custom-button": "^1.0.0",
-    "vnhat-alert-component": "^1.0.0",
-    "vnhat-button-component": "^1.0.0",
-    "vnhat-dropdown-component": "^1.0.0",
-    "vnhat-forminput-component": "^1.0.1",
-    "vnhat-modal-component": "^1.0.0"
+    "fest": "^0.12.1",
+    "sky-app-function-10": "^1.0.0",
+    "sky-app-function-2": "^1.0.0",
+    "sky-app-function-3": "^1.0.0",
+    "sky-app-function-4": "^1.0.0",
+    "sky-app-function-5": "^1.0.0",
+    "sky-app-function-6": "^1.0.0",
+    "sky-app-function-7": "^1.0.0",
+    "sky-app-function-8": "^1.0.0",
+    "sky-app-function-9": "^1.0.0"
   }
 }
